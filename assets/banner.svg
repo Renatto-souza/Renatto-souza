@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Renatto — Web Developer | Software &amp; AI Builder</title>
+<desc id="desc">Banner azul escuro com linhas de circuito discretas e apresentação profissional.</desc>
+<rect width="1200" height="330" rx="18" fill="#0d1422"/>
+<rect x="1" y="1" width="1198" height="328" rx="17" fill="none" stroke="#26364a"/>
+<g stroke="#263c56" stroke-width="1.5" fill="none">
+<path d="M825 0v60h110v65h145v70h120M940 0v28h130v60h130M900 330v-45h120v-55h180M1090 330v-42h110"/>
+<circle cx="935" cy="125" r="5" fill="#0d1422"/><circle cx="1080" cy="195" r="5" fill="#0d1422"/><circle cx="1020" cy="230" r="5" fill="#0d1422"/>
+</g>
+<rect x="64" y="57" width="34" height="4" rx="2" fill="#68aaff"/>
+<text x="64" y="133" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Renatto</text>
+<text x="66" y="186" fill="#87baff" font-family="Arial, Helvetica, sans-serif" font-size="26">Web Developer | Software &amp; AI Builder</text>
+<text x="66" y="232" fill="#bac5d3" font-family="Arial, Helvetica, sans-serif" font-size="22">Building digital experiences and meaningful software.</text>
+<text x="66" y="284" fill="#94a6bb" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">WEB DEVELOPMENT / SOFTWARE / CONTINUOUS LEARNING</text>
+</svg>
