@@ -29,9 +29,10 @@ HTML5 · CSS3
   <img src="./assets/icons/react.svg" width="40" height="40" alt="React" title="React" />
   <img src="./assets/icons/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />
   <img src="./assets/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python" />
 </p>
 
-JavaScript · TypeScript · React · Next.js · Tailwind CSS
+HTML5 · CSS3 JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python
 
 ### Ambiente de desenvolvimento
 
@@ -41,10 +42,9 @@ JavaScript · TypeScript · React · Next.js · Tailwind CSS
   <img src="./assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" title="VS Code" />
   <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python" />
 </p>
 
-Git · GitHub · Node.js · VS Code · Docker · Python
+Git · GitHub · Node.js · VS Code · Docker
 
 Ferramentas utilizadas na configuração do ambiente e no fluxo de desenvolvimento; o aprofundamento técnico é contínuo.
 
