@@ -1,15 +1,15 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Banner do perfil de Renatto — Desenvolvimento Web, Software e Inteligência Artificial" />
 </p><h1 align="center">Olá, eu sou Renatto.</h1><p align="center">
-  <strong>Web Developer | Software & AI Builder</strong>
+  <strong>DESENVOLVIMENTO WEB · INTELIGÊNCIA ARTIFICIAL · PROGRAMADOR </strong>
 </p><p align="center">
-  Desenvolvimento Web · Inteligência Artificial · Programação Criativa
+
 </p>Sobre mim
 Sou estudante do Ensino Médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas (ADS), com formação em andamento nas áreas de programação e inteligência artificial.
 
 Desenvolvo sites, landing pages e experiências digitais, combinando programação, design de interfaces e ferramentas de IA. Sou fundador da Dryse, uma iniciativa voltada à criação de soluções digitais para empresas.
-Linguagens e tecnologias
-Tecnologias que utilizo e sigo aprofundando em estudos e projetos:
+
+Linguagens e tecnologias:
 <p align="left">
   <img src="./assets/icons/html5.svg" alt="HTML5" title="HTML5" width="42" height="42" />&nbsp;
   <img src="./assets/icons/css3.svg" alt="CSS3" title="CSS3" width="42" height="42" />&nbsp;
@@ -49,7 +49,9 @@ Desenvolvo projetos de interfaces web, sites institucionais e aplicações inter
   <a href="https://github.com/Renatto-souza?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar_meus_projetos-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus projetos no GitHub" />
   </a>
-</p>Redes sociais e conexões
+</p>
+
+Redes sociais
 <p align="left">
   <a href="https://www.instagram.com/renatto.vsouza">
     <img src="https://img.shields.io/badge/Instagram_pessoal-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram pessoal: @renatto.vsouza" />
@@ -60,13 +62,13 @@ Desenvolvo projetos de interfaces web, sites institucionais e aplicações inter
   <a href="https://github.com/Renatto-souza">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: @Renatto-souza" />
   </a>
-  <a href="COLE_AQUI_O_LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/renatto-souza-28b52b429" target="_blank">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     alt="LinkedIn"
     title="Meu LinkedIn"
-    width="35"
-    height="35"
+    width="32"
+    height="32"
   />
 </a>
 </p>
