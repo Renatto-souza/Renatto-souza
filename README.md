@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Banner do perfil de Renatto — Desenvolvimento Web, Software e Inteligência Artificial" />
 </p>
@@ -9,13 +8,13 @@
   <strong>DESENVOLVIMENTO WEB · INTELIGÊNCIA ARTIFICIAL · PROGRAMADOR</strong>
 </p>
 
-## Sobre mim
+### Sobre mim
 
 Sou estudante do **Ensino Médio integrado ao curso técnico em Análise e Desenvolvimento de Sistemas (ADS)**, com formação em andamento nas áreas de programação e inteligência artificial.
 
 Desenvolvo sites, landing pages e experiências digitais, combinando programação, design de interfaces e ferramentas de IA. Sou fundador da **Dryse**, uma iniciativa voltada à criação de soluções digitais para empresas.
 
-## Linguagens e tecnologias
+### Linguagens e tecnologias
 
 <p align="left">
   <img src="./assets/icons/html5.svg" alt="HTML5" title="HTML5" width="42" height="42" />&nbsp;
@@ -26,7 +25,7 @@ Desenvolvo sites, landing pages e experiências digitais, combinando programaç�
   <img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
 </p>
 
-## Ambiente de desenvolvimento
+### Ambiente de desenvolvimento
 
 <p align="left">
   <img src="./assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="34" height="34" />&nbsp;
@@ -38,7 +37,7 @@ Desenvolvo sites, landing pages e experiências digitais, combinando programaç�
   <img src="./assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="34" height="34" />
 </p>
 
-## Inteligências artificiais e plataformas que uso
+### Inteligências artificiais e plataformas que uso
 
 <p align="left">
   <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" alt="ChatGPT / OpenAI" title="ChatGPT" width="34" height="34" />&nbsp;
@@ -52,17 +51,17 @@ Desenvolvo sites, landing pages e experiências digitais, combinando programaç�
   <img src="https://base44.com/logo_v2.svg" alt="Base44" title="Base44" width="84" height="34" />
 </p>
 
-## Desenvolvimento com inteligência artificial
+### Desenvolvimento com inteligência artificial
 
 Utilizo IA para apoiar o ciclo de desenvolvimento de software: **pesquisa, planejamento, definição de requisitos, prototipagem, implementação, depuração, revisão de código e documentação**.
 
 Busco unir criatividade, produtividade e fundamentos técnicos, compreendendo as soluções geradas, testando seu funcionamento e aprimorando a qualidade dos projetos.
 
-## Vibe Coding
+### Vibe Coding
 
 Exploro o **Vibe Coding** como abordagem de criação e prototipagem assistida por IA. Utilizo instruções em linguagem natural para transformar ideias em aplicações, sem deixar de estudar programação, revisar o código e validar os resultados.
 
-## Portfólio e projetos
+### Portfólio e projetos
 
 Desenvolvo interfaces web, sites institucionais e aplicações interativas. Estou organizando demonstrações e documentações para compartilhar minha evolução técnica.
 
@@ -72,7 +71,7 @@ Desenvolvo interfaces web, sites institucionais e aplicações interativas. Esto
   </a>
 </p>
 
-## Redes sociais
+### Redes sociais
 
 <p align="left">
   <a href="https://www.instagram.com/renatto.vsouza">
