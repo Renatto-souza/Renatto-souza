@@ -72,9 +72,9 @@ Desenvolvo interfaces web, sites institucionais e aplicações interativas. Esto
   </a>
 </p>
 
+## Redes sociais
 
-
-<p align="left"> Redes Socias
+<p align="left">
   <a href="https://www.instagram.com/renatto.vsouza">
     <img src="https://img.shields.io/badge/Instagram_pessoal-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram pessoal: @renatto.vsouza" />
   </a>&nbsp;
