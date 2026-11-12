@@ -16,18 +16,12 @@ Sou desenvolvedor web e estudante de tecnologia, com interesse em engenharia de 
 
 ## Linguagens e tecnologias
 
-As tecnologias abaixo representam diferentes etapas da minha prática e do meu aprendizado.
-
-### Fundamentos aplicados em projeto público
-
 <p>
   <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS3" title="CSS3" />
 </p>
 
 HTML5 · CSS3
-
-### Frontend em estudo e prática
 
 <p>
   <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
@@ -47,9 +41,10 @@ JavaScript · TypeScript · React · Next.js · Tailwind CSS
   <img src="./assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" title="VS Code" />
   <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python" />
 </p>
 
-Git · GitHub · Node.js · VS Code · Docker
+Git · GitHub · Node.js · VS Code · Docker · Python
 
 Ferramentas utilizadas na configuração do ambiente e no fluxo de desenvolvimento; o aprofundamento técnico é contínuo.
 
@@ -62,13 +57,7 @@ Ferramentas utilizadas na configuração do ambiente e no fluxo de desenvolvimen
 
 Netlify · Vercel
 
-### Em exploração
 
-<p>
-  <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python" />
-</p>
-
-Python
 
 Three.js, p5.js e React Three Fiber fazem parte dos meus experimentos com programação criativa e interfaces 3D.
 
