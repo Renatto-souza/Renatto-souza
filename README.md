@@ -28,6 +28,7 @@ Ambiente de desenvolvimento
   <img src="./assets/icons/docker.svg" alt="Docker" title="Docker" width="34" height="34" />&nbsp;
   <img src="./assets/icons/netlify.svg" alt="Netlify" title="Netlify" width="34" height="34" />&nbsp;
   <img src="./assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="34" height="34" />
+
 </p>Ferramentas: VS Code · Git · GitHub · Node.js · Docker · WSL · Netlify · Vercel
 
 Inteligências artificiais e plataformas que utilizo:
