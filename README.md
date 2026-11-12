@@ -19,11 +19,6 @@ Sou desenvolvedor web e estudante de tecnologia, com interesse em engenharia de 
 <p>
   <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-</p>
-
-HTML5 · CSS3
-
-<p>
   <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="./assets/icons/react.svg" width="40" height="40" alt="React" title="React" />
