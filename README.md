@@ -28,20 +28,11 @@ Ambiente de desenvolvimento
   <img src="./assets/icons/docker.svg" alt="Docker" title="Docker" width="34" height="34" />&nbsp;
   <img src="./assets/icons/netlify.svg" alt="Netlify" title="Netlify" width="34" height="34" />&nbsp;
   <img src="./assets/icons/vercel.svg" alt="Vercel" title="Vercel" width="34" height="34" />
+</p>
 
-</p>Ferramentas: VS Code · Git · GitHub · Node.js · Docker · WSL · Netlify · Vercel
+Inteligências artificiais e plataformas que uso:
 
-Inteligências artificiais e plataformas que utilizo:
-
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" alt="ChatGPT / OpenAI" title="ChatGPT" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" title="Claude" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" alt="Perplexity" title="Perplexity" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/manus.png" alt="Manus" title="Manus" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex" title="Codex" width="25" height="25" />  
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="Claude Code" title="Claude Code" width="25" height="25" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable-color.svg" alt="Lovable" title="Lovable" width="25" height="25" />
-<img src="https://base44.com/logo_v2.svg" alt="Base44" title="Base44" width="65" height="25" /> 
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" alt="ChatGPT / OpenAI" title="ChatGPT" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" title="Claude" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/perplexity-color.svg" alt="Perplexity" title="Perplexity" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/manus.png" alt="Manus" title="Manus" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex" title="Codex" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="Claude Code" title="Claude Code" width="25" height="25" /> <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable-color.svg" alt="Lovable" title="Lovable" width="25" height="25" /> <img src="https://base44.com/logo_v2.svg" alt="Base44" title="Base44" width="65" height="25" /> 
 
 
 Desenvolvimento com inteligência artificial
